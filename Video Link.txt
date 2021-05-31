@@ -1,4 +1,2 @@
 Video Link
 https://www.youtube.com/watch?v=i585GisjZaY&feature=youtu.be&ab_channel=farrukhnadeem
-heruko Server
-https://leanclan.herokuapp.com/
